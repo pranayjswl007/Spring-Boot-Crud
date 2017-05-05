@@ -5,6 +5,7 @@ This Sample application Restful Webservices architecture of Spring Boot. This de
 The database used is H2 as it is pure java based lightweight implementation of SQL
 
 Operations supported by this API
+
 i. Return a list of all approved contracts
 
 ii. Return a single contract
